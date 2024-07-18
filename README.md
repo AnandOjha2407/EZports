@@ -14,7 +14,7 @@ This is my Ezport website where the game updates are shown...
 
 To deploy this project click on the below 
 
-https://anandojha2407.github.io/EZports1/
+https://anandojha2407.github.io/EZports/
 
 ## Authors
 
