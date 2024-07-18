@@ -1,5 +1,5 @@
 
-# Ezport website 
+# EZport website 
 
 This is my Ezport website where the game updates are shown...
 
@@ -23,7 +23,7 @@ https://anandojha2407.github.io/EZports/
 
 ## How to Use
 1. Clone the repository:
-https://github.com/AnandOjha2407/EZports1.git
+https://github.com/AnandOjha2407/EZports.git
 
 2. Open the index.html file in a web browser to view the login page.
 
