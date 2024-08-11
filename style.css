@@ -62,5 +62,19 @@ img{
     transition: transform 0.75s ease-in-out;
   }
 
-  
+.registerbtn{
+    border-radius: 10%;
+    background-color: rgb(114, 125, 125);
+    margin-left: 8px;
+}
 
+.registerbtn:hover{
+    border-radius: 10%;
+    scale: (1.1,1.1);
+    transition: transform 0.5 ease-in-out;
+    background-color: rgb(133, 135, 135);
+}
+
+.register{
+    justify-content: space-evenly;
+}
